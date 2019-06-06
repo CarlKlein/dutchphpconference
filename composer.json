@@ -9,5 +9,10 @@
             "email": "carl.klein@perfect-drive.nl"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Carl\\Greet\\": "src/"
+        }
+    }
 }
