@@ -1,0 +1,13 @@
+{
+    "name": "carlklein/dutchphpconf",
+    "description": "Test package for OS Workshop",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carl Klein",
+            "email": "carl.klein@perfect-drive.nl"
+        }
+    ],
+    "require": {}
+}
